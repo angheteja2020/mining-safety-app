@@ -81,11 +81,6 @@ mining-safety-app/
 
 ## 🖼️ Adding Images
 
-### University Logo
-1. Place your university logo in: `public/images/logo.png`
-2. **Recommended size:** 200x200 pixels
-3. **Format:** PNG (preferably with transparent background)
-
 ### Safety Hazard Icons
 1. Create the icons folder: `public/images/icons/`
 2. Add 11 icon images with these exact names:
