@@ -240,7 +240,7 @@ Feel free to fork this project and customize it for your needs.
 
 ## 📧 Support
 
-If you encounter any issues, please check the Troubleshooting section or consult your instructor.
+If you encounter any issues, please check the Troubleshooting section or consult me.
 
 ---
 
