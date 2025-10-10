@@ -14,14 +14,14 @@ import { translations } from "./translations.js";
 
 // Static data that doesn't change with language
 const hazardsData = [
-  { id: 1, iconPath: "/images/icons/ground-instability.png" },
-  { id: 2, iconPath: "/images/icons/human-equipment.png" },
-  { id: 3, iconPath: "/images/icons/air-quality.png" },
-  { id: 4, iconPath: "/images/icons/slips-trips-falls.png" },
-  { id: 5, iconPath: "/images/icons/electrical.png" },
-  { id: 6, iconPath: "/images/icons/fire.png" },
-  { id: 7, iconPath: "/images/icons/confined-spaces.png" },
-  { id: 8, iconPath: "/images/icons/wildlife.png" },
+  { id: 1, iconPath: "images/icons/ground-instability.png" },
+  { id: 2, iconPath: "images/icons/human-equipment.png" },
+  { id: 3, iconPath: "images/icons/air-quality.png" },
+  { id: 4, iconPath: "images/icons/slips-trips-falls.png" },
+  { id: 5, iconPath: "images/icons/electrical.png" },
+  { id: 6, iconPath: "images/icons/fire.png" },
+  { id: 7, iconPath: "images/icons/confined-spaces.png" },
+  { id: 8, iconPath: "images/icons/wildlife.png" },
 ];
 
 function App() {
@@ -168,7 +168,7 @@ function App() {
               }}
             >
               <img
-                src="/images/logo.png"
+                src="images/logo.png"
                 alt="University Logo"
                 style={{
                   width: "100%",
