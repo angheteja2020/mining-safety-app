@@ -92,15 +92,6 @@ function App() {
         administrative: "Keeping surface areas clear and without trash; training about local wildlife and response protocols.",
         engineering: "Sealing off unauthorized entrances to the mine."
       }
-    },
-    {
-      id: 11,
-      name: "Flash Flooding",
-      iconPath: "/images/icons/flash-flooding.png",
-      controls: {
-        engineering: "Surface water diversion berms and adequate underground pumping system.",
-        administrative: "Monitoring National Weather Service Forecast and evacuation procedures in case of flood warnings."
-      }
     }
   ];
 
