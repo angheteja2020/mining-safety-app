@@ -94,7 +94,22 @@ export const translations = {
           engineering: "Sealing off unauthorized entrances to the mine."
         }
       }
-    ]
+    ],
+
+    // Notes System
+    notes: "Notes",
+    addNote: "Add Note",
+    noNotes: "No notes yet",
+    notePlaceholder: "Enter your note here...",
+    author: "Author",
+    optional: "optional",
+    save: "Save",
+    cancel: "Cancel",
+    delete: "Delete",
+    edit: "Edit",
+    viewNotes: "View Notes",
+    hideNotes: "Hide Notes",
+    noteAdded: "on"
   },
   es: {
     // Header
@@ -191,6 +206,21 @@ export const translations = {
           engineering: "Sellar las entradas no autorizadas a la mina."
         }
       }
-    ]
+    ],
+
+    // Notes System
+    notes: "Notas",
+    addNote: "Agregar Nota",
+    noNotes: "Aún no hay notas",
+    notePlaceholder: "Escribe tu nota aquí...",
+    author: "Autor",
+    optional: "opcional",
+    save: "Guardar",
+    cancel: "Cancelar",
+    delete: "Eliminar",
+    edit: "Editar",
+    viewNotes: "Ver Notas",
+    hideNotes: "Ocultar Notas",
+    noteAdded: "el"
   }
 };
