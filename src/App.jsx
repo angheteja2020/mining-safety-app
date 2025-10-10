@@ -41,15 +41,6 @@ function App() {
     },
     {
       id: 5,
-      name: "Stored Energy",
-      iconPath: "/images/icons/stored-energy.png",
-      controls: {
-        administrative: "Lock-out and tag-out procedures for equipment maintenance.",
-        engineering: "Safety guards in moving parts."
-      }
-    },
-    {
-      id: 6,
       name: "Electrical Hazards",
       iconPath: "/images/icons/electrical.png",
       controls: {
@@ -58,7 +49,7 @@ function App() {
       }
     },
     {
-      id: 7,
+      id: 6,
       name: "Fire",
       iconPath: "/images/icons/fire.png",
       controls: {
@@ -67,7 +58,7 @@ function App() {
       }
     },
     {
-      id: 8,
+      id: 7,
       name: "Confined Spaces",
       iconPath: "/images/icons/confined-spaces.png",
       controls: {
@@ -76,7 +67,7 @@ function App() {
       }
     },
     {
-      id: 9,
+      id: 8,
       name: "Noise",
       iconPath: "/images/icons/noise.png",
       controls: {
@@ -85,7 +76,7 @@ function App() {
       }
     },
     {
-      id: 10,
+      id: 9,
       name: "Wildlife",
       iconPath: "/images/icons/wildlife.png",
       controls: {
