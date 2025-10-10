@@ -68,15 +68,6 @@ function App() {
     },
     {
       id: 8,
-      name: "Noise",
-      iconPath: "/images/icons/noise.png",
-      controls: {
-        administrative: "Isolation of noise sources or use of silencers.",
-        ppe: "Mandatory hearing protection in high noise areas."
-      }
-    },
-    {
-      id: 9,
       name: "Wildlife",
       iconPath: "/images/icons/wildlife.png",
       controls: {
